@@ -17,19 +17,19 @@ A simple backend solution to help users manage their finances. This system allow
    git clone https://github.com/Aldo1803/FinancesAppPublic.git
    ```
 ## Navigate to the project directory
-´´´bash
+```bash
 cd FinancesAppPublic
-´´´
+```
 
 ## Install the dependencies
-´´´bash
+```bash
 npm install
-´´´
+```
 
 ## Start the application
-´´´bash
+```bash
 npm start
-´´´
+```
 
 ## API Usage
 Once the application is running, use tools like Postman to interact with the provided API endpoints.
